@@ -59,3 +59,13 @@ a {
     color: #f5f6f7;
 }
 
+button {
+    display: block;
+    background-color: #3b3b4f;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 1em;
+    width: 200px;
+    margin: 2em auto;
+}
+
