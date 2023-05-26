@@ -34,3 +34,8 @@ fieldset {
     padding: 2em 0;
 }
 
+label {
+    display: block;
+    margin: 0.5em 0;
+}
+
