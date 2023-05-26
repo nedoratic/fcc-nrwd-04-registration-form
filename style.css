@@ -28,3 +28,9 @@ form {
     margin: 0 auto;
 }
 
+fieldset {
+    border: none;
+    border-bottom: 3px solid #3b3b4f;
+    padding: 2em 0;
+}
+
